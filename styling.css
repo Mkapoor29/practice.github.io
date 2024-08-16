@@ -275,7 +275,7 @@ margin: 0px;
     } */
     #home::before{
         /* position: relative; */
-        height: 20%;
+        height: 15%;
     }
     /* SERVICES */
     #servicesImageContainer {
