@@ -14,6 +14,7 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
+margin: 0px;
     /* background-color: rgb(170, 201, 139); */
 }
 #navbar {
