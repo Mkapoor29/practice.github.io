@@ -15,7 +15,7 @@ body{
     top: 0px;
     left: 0px;
 margin: 0px;
-    /* background-color: rgb(170, 201, 139); */
+     background-color: rgb(170, 201, 139); 
 }
 #navbar {
     display: flex;;
